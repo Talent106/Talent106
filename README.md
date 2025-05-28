@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
+[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)]
 <h1 align="center">Hi 👋, Senior Software Engineer here.</h1>
 
 I'm a software engineer with a fire in my belly and a knack for getting things done. I lead the charge in crafting amazing user experiences from the ground up. 
